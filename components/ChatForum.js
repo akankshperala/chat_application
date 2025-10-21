@@ -6,7 +6,7 @@ import { useCreateChatClient, Chat, Channel, ChannelHeader, MessageInput, Messag
 import 'stream-chat-react/dist/css/v2/index.css';
 
 const ChatForum = ({ clerkUser, slug }) => {
-    const apiKey = 'cwj72f8stvxk';
+const api_key = process.env.NEXT_PUBLIC_API_KEY;
     const userId = clerkUser?.id;
     const userName = clerkUser?.name;
     const userToken = clerkUser?.token;
