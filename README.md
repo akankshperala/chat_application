@@ -35,6 +35,6 @@ This app allows users to **sign in**, **join topic-based chat rooms** (like *Pyt
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mern_chat_application.git
-cd mern_chat_application
+git clone https://github.com/akankshperala/chat_application.git
+cd chat_application
 
