@@ -1,4 +1,4 @@
-# 💬 MERN Chat Application
+# 💬 Chat Application
 
 A real-time **group chat platform** built with **Next.js**, **Stream Chat**, and **Clerk Authentication**.  
 This app allows users to **sign in**, **join topic-based chat rooms** (like *Python Chat*, *JS Chat*, *AI Chat*), and communicate instantly with modern UI.
